@@ -1,12 +1,15 @@
 .images{
-    width: 100%;
+    width: 90%;
     margin-bottom: 30px;
     margin-top: 10px;
+    
 
 }
 .container{
     align-content: center;
     align-items: center;
+    display: block;
+    margin:auto;
 }
 footer{
     text-align: center;
